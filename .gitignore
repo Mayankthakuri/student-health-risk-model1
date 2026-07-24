@@ -1,0 +1,10 @@
+train.csv
+test.csv
+sample_submission.csv
+submission.csv
+submission_final.csv
+playground-series-s6e7.zip
+models/
+__pycache__/
+*.pyc
+.DS_Store
